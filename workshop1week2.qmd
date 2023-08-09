@@ -125,38 +125,3 @@ Exciting
 
 
 
-
-## WikiJournal of Science
-
-![](images/WikiJSci.jpeg)
-
-Open access • Publication charge free • Public peer review • Wikipedia-integrated
-
-<!--https://en.wikiversity.org/wiki/WikiJournal_Preprints/Multiple_object_tracking-->
-
-::: notes
-I'm an associate editor there
-:::
-
-## WikiJournal Preprints {background-color="black" background-image="images/2targets9objectsPerArray.gif"}
-
-![](images/wikipreprint.png)
-
-https://en.wikiversity.org/wiki/WikiJournal_Preprints/Multiple_object_tracking
-
-## END {background-color="black" background-image="images/2targets3objectsPerArray.gif"}
-
-#### Alex Holcombe
-
-#### University of Sydney
-
-## The relationship of multiple object tracking to other forms of attention
-
--   Feature attention is global
--   Tracking is hemifield-specific
-
-Remaining questions:
-
--   Is temporal resolution hemifield-specific?
--   What about statistical perception?
--   If you limit time of attention availability with my circular displays, does this prevent doing other tasks (dual tasks)?
