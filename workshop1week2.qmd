@@ -104,24 +104,4 @@ In some ways, visual attention and memory are a coherent scientific field. I mea
 
 -   Do the readings
 -   Choose a research article that interests you
-    - For that article, try to fill out Justine's columns
-      - Create a copy of Google Sheet
-    - Write down notes and problems that you have
-
-::: notes
-Exciting
-:::
-
-## Project process
-
-::: nonincremental
-- Identify a research area of interest
-- Identify/choose some proxies of research trustworthiness.
-- Write a plan to measure those proxies.
-- Pre-register the plan
-- Divide up the plan and do it.
-- 
-:::
-
-
 
