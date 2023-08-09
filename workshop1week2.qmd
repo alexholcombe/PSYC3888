@@ -1,0 +1,162 @@
+---
+title: "PSYC3888 Can we trust this science?"
+title-slide-attributes:
+    data-background-image: "images/2targets3objectsPerArray.gif"
+    data-background-size: contain
+    data-background-opacity: ".1"
+format:
+  revealjs:
+    theme: [default, mystyle.scss]
+    incremental: true
+    center: false
+    controls: true  
+---
+
+## Can we trust this science? {background-color="black"}
+
+#### Alex Holcombe
+
+#### University of Sydney
+
+<!-- For github deployment, followed these instructions for github pages https://quarto.org/docs/publishing/github-pages.html -->
+
+```{=html}
+<!-- When I wrote this book one of the things I noticed was that to explain MOT and its role in the mind one mainly ended up explaining things about the mind that we know from other paradigms.
+
+Not every field of psychology is like that.
+This is not a unified theory of tracking. That would be a different talk. This is broad empirical generalizations, the ingredients to a unified theory.
+-->
+```
+## Get deeper into research
+
+-   Understanding it
+-   Knowing how to use it
+-   Knowing how to do it
+
+## Research findings shouldn't be engaged with uncritically
+
+-   Knowing how to use research findings
+-   Knowing how to do research
+
+## Getting to know each other
+
+Menti.com , code: 7253 9464
+
+https://www.menti.com/al64txdyvg9r
+
+## The replication crisis
+
+::: nonincremental
+
+-   Replication projects show re-running a study [often yields a different result](https://alexholcombe.wordpress.com/2023/08/08/an-executive-summary-of-sciences-replication-crisis/(opens in a new tab))
+-   One cause is [p-hacking](https://shinyapps.org/apps/p-hacker/)
+
+:::
+
+![](images/alexReacts.jpeg)
+
+## Assessing a scientific literature without re-doing the studies
+
+- Very hard
+- One proxy for whether a literature gets vetted is whether it's transparent ([Vazire & Holcombe, 2022](https://doi.org/10.1177/10892680211033912)
+
+![](images/JulienColomb_Open-Science.png)
+
+## Exposing the level of transparency can drive change
+
+![](images/JulienColomb_Open-Science.png)
+XYZ
+
+## Follows best practices? Has obvious errors?
+
+- Guidelines
+  - Clinical trials has heaps
+  - Other areas, not as much
+- Sample size planning
+- Statcheck
+
+<!-- https://ceramics.org/ceramic-tech-today/acers-news/open-science-open-access-projekt-deal-and-ijces/ -->
+
+## Justine's honours project
+
+::: nonincremental
+- Motivation
+- Topic
+- Process
+- Google Sheet
+:::
+
+## Groups
+
+::: nonincremental
+-   Exchange contact details.
+-   Set up a virtual workspace to exchange messages and documents, like Slack or a Facebook group
+-   Set up meetings
+:::
+
+::: notes
+In writing this little book, I distilled the results of hundreds of studies to a short list of empirical generalizations. Broad lessons for how cognition and perception connect, it turns out.
+
+In some ways, visual attention and memory are a coherent scientific field. I mean that findings from paradigms other than MOT generalize to MOT too.
+:::
+
+## Homework
+
+-   Do the readings
+-   Choose a research article that interests you
+    - For that article, try to fill out Justine's columns
+      - Create a copy of Google Sheet
+    - Write down notes and problems that you have
+
+::: notes
+Exciting
+:::
+
+## Project process
+
+::: nonincremental
+- Identify a research area of interest
+- Identify/choose some proxies of research trustworthiness.
+- Write a plan to measure those proxies.
+- Pre-register the plan
+- Divide up the plan and do it.
+- 
+:::
+
+
+
+
+## WikiJournal of Science
+
+![](images/WikiJSci.jpeg)
+
+Open access • Publication charge free • Public peer review • Wikipedia-integrated
+
+<!--https://en.wikiversity.org/wiki/WikiJournal_Preprints/Multiple_object_tracking-->
+
+::: notes
+I'm an associate editor there
+:::
+
+## WikiJournal Preprints {background-color="black" background-image="images/2targets9objectsPerArray.gif"}
+
+![](images/wikipreprint.png)
+
+https://en.wikiversity.org/wiki/WikiJournal_Preprints/Multiple_object_tracking
+
+## END {background-color="black" background-image="images/2targets3objectsPerArray.gif"}
+
+#### Alex Holcombe
+
+#### University of Sydney
+
+## The relationship of multiple object tracking to other forms of attention
+
+-   Feature attention is global
+-   Tracking is hemifield-specific
+
+Remaining questions:
+
+-   Is temporal resolution hemifield-specific?
+-   What about statistical perception?
+-   If you limit time of attention availability with my circular displays, does this prevent doing other tasks (dual tasks)?
