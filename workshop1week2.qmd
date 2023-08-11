@@ -1,15 +1,22 @@
 ---
 title: "PSYC3888 Can we trust this science?"
-title-slide-attributes:
-    data-background-image: "images/2targets3objectsPerArray.gif"
-    data-background-size: contain
-    data-background-opacity: ".1"
-format:
+author: "Alex Holcombe"
+date: 09-08-2023
+format: 
   revealjs:
-    theme: [default, mystyle.scss]
-    incremental: true
-    center: false
-    controls: true  
+    self-contained: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png"
+    footer: "[PSYC3888](https://alexholcombe.github.io/PSYC3888)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
 ---
 
 ## Can we trust this science? {background-color="black"}
