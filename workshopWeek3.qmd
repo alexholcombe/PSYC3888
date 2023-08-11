@@ -1,16 +1,65 @@
 ---
-title: "Can we trust this science? Workshop week 3"
-format: revealjs
-editor: visual
+title: "PSYC3888 Can we trust this science? Workshop week 3"
+author: "Alex Holcombe"
+date: 2023-08-16
+format: 
+  revealjs:
+    self-contained: false
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png"
+    footer: "[PSYC3888](https://alexholcombe.github.io/PSYC3888)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: true
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
 ---
+
+## The replication crisis
+
+::: nonincremental
+
+-   Replication projects show re-running a study [often yields a different result](https://alexholcombe.wordpress.com/2023/08/08/an-executive-summary-of-sciences-replication-crisis/(opens in a new tab))
+-   One cause is [p-hacking](https://shinyapps.org/apps/p-hacker/)
+
+:::
+
+![](images/alexReacts.jpeg)
+
+## Justine's honours project
+
+::: nonincremental
+- Motivation
+- Topic
+- Process
+- Google Sheet
+:::
+
+## Groups
+
+::: nonincremental
+-   Exchange contact details.
+-   Set up a virtual workspace to exchange messages and documents, like Slack or a Facebook group
+-   Set up meetings
+:::
+
+::: notes
+In writing this little book, I distilled the results of hundreds of studies to a short list of empirical generalizations. Broad lessons for how cognition and perception connect, it turns out.
+
+In some ways, visual attention and memory are a coherent scientific field. I mean that findings from paradigms other than MOT generalize to MOT too.
+:::
 
 ## Homework
 
 -   Do the readings
 -   Choose a research article that interests you
-    - For that article, try to fill out Justine's columns
-      - Create a copy of Google Sheet
-    - Write down notes and problems that you have
+    -   For that article, try to fill out Justine's columns
+        -   Create a copy of Google Sheet
+    -   Write down notes and problems that you have
 
 ::: notes
 Exciting
@@ -19,10 +68,10 @@ Exciting
 ## Project process
 
 ::: nonincremental
-- Identify a research area of interest
-- Identify/choose some proxies of research trustworthiness.
-- Write a plan to measure those proxies.
-- Pre-register the plan
-- Divide up the plan and do it.
-- 
+-   Identify a research area of interest
+-   Identify/choose some proxies of research trustworthiness.
+-   Write a plan to measure those proxies.
+-   Pre-register the plan
+-   Divide up the plan and do it.
+-   
 :::
