@@ -8,7 +8,6 @@ format:
     slide-number: c/t
     width: 1600
     height: 900
-    logo: "https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png"
     footer: "[PSYC3888](https://alexholcombe.github.io/PSYC3888)"
     theme: ["simple", "styles.scss"]
     echo: true
