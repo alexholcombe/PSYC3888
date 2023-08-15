@@ -28,6 +28,13 @@ editor: source
 :::
 
 ![](images/alexReacts.jpeg)
+## Mentimeter
+
+What's the title of the paper you chose?
+
+## OSCIs
+
+![](images/observableSelfCorrectionIndicators.png)
 
 ## Justine's honours project
 
@@ -37,6 +44,10 @@ editor: source
 - Process
 - Google Sheet
 :::
+
+## Literature search
+
+Justine's Methods section
 
 ## Groups
 
@@ -48,8 +59,6 @@ editor: source
 
 ::: notes
 In writing this little book, I distilled the results of hundreds of studies to a short list of empirical generalizations. Broad lessons for how cognition and perception connect, it turns out.
-
-In some ways, visual attention and memory are a coherent scientific field. I mean that findings from paradigms other than MOT generalize to MOT too.
 :::
 
 ## Homework
@@ -60,8 +69,9 @@ In some ways, visual attention and memory are a coherent scientific field. I mea
         -   Create a copy of Google Sheet
     -   Write down notes and problems that you have
 
+
 ::: notes
-Exciting
+Future years: contribute to Wikipedia or journal club 
 :::
 
 ## Project process
