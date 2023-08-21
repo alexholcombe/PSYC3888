@@ -27,7 +27,23 @@ editor: source
 
 :::
 
+
 ![](images/alexReacts.jpeg)
+## Mentimeter0 invisible slide don't know why
+
+What's the title of the paper you chose?
+
+## Mentimeter questions
+
+::: nonincremental
+
+What proportion of studies have replicated?
+
+Name a reason
+
+:::
+
+
 ## Mentimeter
 
 What's the title of the paper you chose?
